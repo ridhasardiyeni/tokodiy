@@ -1,0 +1,200 @@
+/*
+	@name web_login_diy
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; /*overflow-x:hidden;*/ }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1366px; height: 768px; overflow: hidden;  }
+
+#_bg__web_login_diy {
+	top: 0px;
+	left: 0px;
+	width: 1366px;
+	height: 768px;
+	background:rgba(255,5,35,255);
+}
+
+
+#path_1 {
+	top: 110px;
+	left: 490px;
+	width: 406.44921875px;
+	height: 471.71771240234px;
+}
+
+#email {
+	top: 300.72723388672px;
+	left: 559px;
+	width: 249px;
+	height: 30.757568359375px;
+}
+
+#rectangle_8 {
+	top: 0px;
+	left: 0px;
+	width: 70.02001953125px;
+	height: 30.757568359375px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(255,5,35,255);
+}
+
+
+#email_ek1 {
+	top: 0px;
+	left: 69px;
+	width: 177.59912109375px;
+	height: 28.757568359375px;
+	border: 1px solid #ff0523;
+	background:rgba(255,255,255,255);
+}
+
+
+#masukkan_email {
+	top: 5px;
+	left: 84px;
+	width: 83px;
+	height: 17px;
+	font-family: Segoe UI;
+	font-size: 11px;
+	text-align: left;
+	color:#b9b9b9;
+}
+
+#pass {
+	top: 345.15484619141px;
+	left: 558px;
+	width: 250px;
+	height: 30.757568359375px;
+}
+
+#rectangle_9 {
+	top: 0px;
+	left: 0px;
+	width: 70.02001953125px;
+	height: 30.757568359375px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(255,5,35,255);
+}
+
+
+#pass_ek1 {
+	top: 0px;
+	left: 70px;
+	width: 178.28271484375px;
+	height: 28.757568359375px;
+	border: 1px solid #ff0523;
+	background:rgba(255,255,255,255);
+}
+
+
+#masukkan_password {
+	top: 5px;
+	left: 85px;
+	width: 103px;
+	height: 17px;
+	font-family: Segoe UI;
+	font-size: 11px;
+	text-align: left;
+	color:#b9b9b9;
+}
+
+
+#email_ek2 {
+	top: 305.56225585938px;
+	left: 578.40380859375px;
+	width: 33px;
+	height: 17px;
+	font-family: Segoe UI;
+	font-size: 11px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#password {
+	top: 350.3063659668px;
+	left: 568.1513671875px;
+	width: 54px;
+	height: 17px;
+	font-family: Segoe UI;
+	font-size: 11px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#login {
+	top: 431.95953369141px;
+	left: 589px;
+	width: 188.646484375px;
+	height: 30.757568359375px;
+}
+#repeat_grid_1 {
+	top: 0px;
+	left: 0px;
+	width: 188.646484375px;
+	height: 30.757568359375px;
+	overflow:hidden;
+}
+
+#rectangle_7 {
+	top: 0px;
+	left: 0px;
+	width: 188.646484375px;
+	height: 30.757568359375px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(255,5,35,255);
+}
+
+
+#login_ek1 {
+	top: 4px;
+	left: 74px;
+	width: 45px;
+	height: 20px;
+	font-family: Segoe UI;
+	font-size: 13px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#forgot_password_ {
+	top: 474.74743652344px;
+	left: 656px;
+	width: 60px;
+	height: 11px;
+	font-family: Segoe UI;
+	font-size: 7px;
+	text-align: left;
+	color:#ff0523;
+}
+
+
+#logo {
+	top: 210px;
+	left: 614px;
+	width: 138px;
+	height: 48px;
+}
+
+
+
+/* Add your custom CSS here */
